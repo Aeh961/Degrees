@@ -2,7 +2,7 @@
     
     {
         "id":1,
-        "image": "images/lau.jpeg",
+        "image": "lau.jpeg",
         "name": "Lebanese American Univeristy",
         "major":"Economics",
         "degree": "AA",
@@ -11,7 +11,7 @@
     },
     {
         "id":2,
-        "image": "images/ms.jpeg",
+        "image": "ms.jpeg",
         "name": "Metropolitan State University",
         "major":"Business Adminstration",
         "degree": "BA",
@@ -20,7 +20,7 @@
     },
     {
         "id":2,
-        "image": "images/bu.jpeg",
+        "image": "bu.jpeg",
         "name": "Boston University",
         "major":"Software Development",
         "degree": "MS",
